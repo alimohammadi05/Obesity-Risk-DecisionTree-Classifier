@@ -5,7 +5,7 @@ This repository contains a complete machine learning pipeline and analysis for e
 ---
 
 ## Project Structure
-
+```text
 D:.
 │   LICENSE
 │   obesity_decision_tree.ipynb
@@ -29,7 +29,7 @@ D:.
         Test_Accuracy,Precision,Recall,F1_vs_Depth.png
         tree_final.pdf
         tree_final.png
-
+```
 ---
 
 ## Dataset Overview
